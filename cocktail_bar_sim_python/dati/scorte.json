@@ -1,0 +1,287 @@
+{
+    "gin": [
+        2,
+        59.0,
+        "alcol"
+    ],
+    "vodka": [
+        2,
+        26.5,
+        "alcol"
+    ],
+    "rum": [
+        1,
+        70.0,
+        "alcol"
+    ],
+    "tonica": [
+        2,
+        20.0,
+        "allungante"
+    ],
+    "cola": [
+        4,
+        15.0,
+        "allungante"
+    ],
+    "succo di limone": [
+        1,
+        18.0,
+        "allungante"
+    ],
+    "prosecco": [
+        2,
+        33.0,
+        "alcol"
+    ],
+    "aperol": [
+        6,
+        9.0,
+        "alcol"
+    ],
+    "soda": [
+        3,
+        33.0,
+        "allungante"
+    ],
+    "vermouth rosso": [
+        6,
+        2,
+        "alcol"
+    ],
+    "campari": [
+        3,
+        11,
+        "alcol"
+    ],
+    "lemon soda": [
+        7,
+        55.0,
+        "allungante"
+    ],
+    "rum chiaro": [
+        3,
+        85,
+        "allungante"
+    ],
+    "succo d'ananas": [
+        3,
+        99.5,
+        "allungante"
+    ],
+    "crema di cocco": [
+        3,
+        49,
+        "allungante"
+    ],
+    "rum bianco": [
+        3,
+        24.0,
+        "alcol"
+    ],
+    "succo di lime": [
+        4,
+        71.0,
+        "allungante"
+    ],
+    "sciroppo di zucchero": [
+        3,
+        9.0,
+        "allungante"
+    ],
+    "scotch": [
+        1,
+        67.5,
+        "alcol"
+    ],
+    "amaretto": [
+        1,
+        24.5,
+        "alcol"
+    ],
+    "tequila": [
+        1,
+        16.5,
+        "alcol"
+    ],
+    "triple sec": [
+        2,
+        2.5,
+        "alcol"
+    ],
+    "succo d'arancia": [
+        2,
+        42.5,
+        "allungante"
+    ],
+    "purea di pesca": [
+        2,
+        20,
+        "allungante"
+    ],
+    "spumante": [
+        2,
+        55,
+        "allungante"
+    ],
+    "cognac": [
+        1,
+        43,
+        "alcol"
+    ],
+    "crema di cacao scura": [
+        4,
+        43,
+        "alcol"
+    ],
+    "panna": [
+        3,
+        86,
+        "allungante"
+    ],
+    "crema di menta": [
+        5,
+        49,
+        "alcol"
+    ],
+    "crema di cacao bianca": [
+        4,
+        49,
+        "alcol"
+    ],
+    "drambuie": [
+        5,
+        55.0,
+        "alcol"
+    ],
+    "succo di pomodoro": [
+        5,
+        64,
+        "allungante"
+    ],
+    "galliano": [
+        4,
+        64.0,
+        "alcol"
+    ],
+    "succo di mirtillo": [
+        4,
+        50,
+        "allungante"
+    ],
+    "creme de m\u00fbre": [
+        1,
+        91.0,
+        "allungante"
+    ],
+    "liquore di marasca": [
+        1,
+        76.0,
+        "allungante"
+    ],
+    "cacha\u00e7a": [
+        1,
+        20,
+        "allungante"
+    ],
+    "zucchero": [
+        4,
+        65.5,
+        "allungante"
+    ],
+    "lime": [
+        5,
+        48,
+        "allungante"
+    ],
+    "champagne": [
+        2,
+        28,
+        "alcol"
+    ],
+    "liquore al caff\u00e8": [
+        5,
+        86,
+        "allungante"
+    ],
+    "caff\u00e8 espresso": [
+        2,
+        92.5,
+        "allungante"
+    ],
+    "rum scuro": [
+        2,
+        23.5,
+        "alcol"
+    ],
+    "sciroppo di orzata": [
+        4,
+        92,
+        "allungante"
+    ],
+    "bourbon": [
+        2,
+        32.0,
+        "alcol"
+    ],
+    "angostura": [
+        4,
+        96.79999999999995,
+        "allungante"
+    ],
+    "sciroppo di granatina": [
+        2,
+        83.0,
+        "allungante"
+    ],
+    "succo di pompelmo": [
+        1,
+        76,
+        "allungante"
+    ],
+    "soda al pompelmo": [
+        2,
+        10,
+        "allungante"
+    ],
+    "menta": [
+        4,
+        94,
+        "allungante"
+    ],
+    "acqua": [
+        2,
+        88,
+        "allungante"
+    ],
+    "whiskey irlandese": [
+        5,
+        20,
+        "allungante"
+    ],
+    "caff\u00e8": [
+        3,
+        20,
+        "allungante"
+    ],
+    "whiskey": [
+        3,
+        70,
+        "allungante"
+    ],
+    "sciroppo di lampone": [
+        1,
+        86.5,
+        "allungante"
+    ],
+    "albume": [
+        1,
+        91,
+        "allungante"
+    ],
+    "liquore alla pesca": [
+        3,
+        94,
+        "allungante"
+    ]
+}

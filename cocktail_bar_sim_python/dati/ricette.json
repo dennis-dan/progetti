@@ -1,0 +1,243 @@
+{
+    "Margarita": {
+        "tequila": 5,
+        "triple sec": 2,
+        "succo di lime": 2
+    },
+    "Mojito": {
+        "rum bianco": 4,
+        "succo di lime": 3,
+        "sciroppo di zucchero": 2,
+        "soda": 6
+    },
+    "Daiquiri": {
+        "rum bianco": 4.5,
+        "succo di lime": 2.5,
+        "sciroppo di zucchero": 1.5
+    },
+    "Cosmopolitan": {
+        "vodka": 4,
+        "triple sec": 1.5,
+        "succo di lime": 1,
+        "succo di mirtillo": 3
+    },
+    "Negroni": {
+        "gin": 3,
+        "vermouth rosso": 3,
+        "campari": 3
+    },
+    "Americano": {
+        "campari": 3,
+        "vermouth rosso": 3,
+        "soda": 6
+    },
+    "Gin Tonic": {
+        "gin": 4,
+        "tonica": 10
+    },
+    "Vodka Lemon": {
+        "vodka": 4,
+        "lemon soda": 10
+    },
+    "Gin Lemon": {
+        "gin": 4,
+        "lemon soda": 10
+    },
+    "Whiskey Sour": {
+        "bourbon": 4.5,
+        "succo di limone": 3,
+        "sciroppo di zucchero": 1.5
+    },
+    "Mai Tai": {
+        "rum bianco": 3,
+        "rum scuro": 3,
+        "triple sec": 1.5,
+        "sciroppo di orzata": 1,
+        "succo di lime": 2
+    },
+    "Long Island Iced Tea": {
+        "vodka": 1.5,
+        "gin": 1.5,
+        "rum bianco": 1.5,
+        "tequila": 1.5,
+        "triple sec": 1.5,
+        "succo di limone": 2.5,
+        "sciroppo di zucchero": 3,
+        "cola": 5
+    },
+    "Caipirinha": {
+        "cacha\u00e7a": 5,
+        "zucchero": 1,
+        "lime": 2
+    },
+    "Caipiroska": {
+        "vodka": 5,
+        "zucchero": 1,
+        "lime": 2
+    },
+    "Pina Colada": {
+        "rum chiaro": 5,
+        "succo d'ananas": 9,
+        "crema di cocco": 3
+    },
+    "Cuba Libre": {
+        "rum chiaro": 5,
+        "cola": 10,
+        "succo di lime": 1
+    },
+    "Tequila Sunrise": {
+        "tequila": 4.5,
+        "succo d'arancia": 9,
+        "sciroppo di granatina": 1.5
+    },
+    "Bloody Mary": {
+        "vodka": 4.5,
+        "succo di pomodoro": 9,
+        "succo di limone": 1.5
+    },
+    "Sex On The Beach": {
+        "vodka": 4,
+        "liquore alla pesca": 2,
+        "succo d'arancia": 4,
+        "succo di mirtillo": 4
+    },
+    "Espresso Martini": {
+        "vodka": 5,
+        "liquore al caff\u00e8": 2,
+        "caff\u00e8 espresso": 2.5
+    },
+    "Aperol Spritz": {
+        "aperol": 6,
+        "prosecco": 9,
+        "soda": 3
+    },
+    "Black Russian": {
+        "vodka": 5,
+        "liquore al caff\u00e8": 2
+    },
+    "White Russian": {
+        "vodka": 5,
+        "liquore al caff\u00e8": 2,
+        "panna": 3
+    },
+    "Irish Coffee": {
+        "whiskey irlandese": 4,
+        "caff\u00e8": 9,
+        "panna": 3
+    },
+    "Tom Collins": {
+        "gin": 4.5,
+        "succo di limone": 3,
+        "sciroppo di zucchero": 1.5,
+        "soda": 6
+    },
+    "Clover Club": {
+        "gin": 4.5,
+        "sciroppo di lampone": 1.5,
+        "succo di limone": 1.5,
+        "albume": 1
+    },
+    "French 75": {
+        "gin": 3,
+        "succo di limone": 2,
+        "sciroppo di zucchero": 1,
+        "champagne": 6
+    },
+    "Aviation": {
+        "gin": 4.5,
+        "liquore di marasca": 1.5,
+        "succo di limone": 1.5
+    },
+    "Manhattan": {
+        "whiskey": 5,
+        "vermouth rosso": 2,
+        "angostura": 0.2
+    },
+    "Old Fashioned": {
+        "bourbon": 4.5,
+        "zucchero": 0.5,
+        "angostura": 0.2
+    },
+    "Mint Julep": {
+        "bourbon": 6,
+        "zucchero": 1,
+        "menta": 1,
+        "acqua": 2
+    },
+    "Planter'S Punch": {
+        "rum scuro": 4.5,
+        "succo d'arancia": 3.5,
+        "succo d'ananas": 3.5,
+        "succo di limone": 2,
+        "sciroppo di granatina": 1,
+        "sciroppo di zucchero": 1,
+        "angostura": 0.2
+    },
+    "Sea Breeze": {
+        "vodka": 4,
+        "succo di mirtillo": 12,
+        "succo di pompelmo": 3
+    },
+    "Bay Breeze": {
+        "vodka": 4,
+        "succo di mirtillo": 6,
+        "succo d'ananas": 6
+    },
+    "Harvey Wallbanger": {
+        "vodka": 4.5,
+        "succo d'arancia": 9,
+        "galliano": 1.5
+    },
+    "Bramble": {
+        "gin": 4,
+        "succo di limone": 2.5,
+        "sciroppo di zucchero": 1.5,
+        "creme de m\u00fbre": 1.5
+    },
+    "Paloma": {
+        "tequila": 5,
+        "succo di lime": 1.5,
+        "soda al pompelmo": 10
+    },
+    "Boulevardier": {
+        "bourbon": 3,
+        "campari": 3,
+        "vermouth rosso": 3
+    },
+    "Sidecar": {
+        "cognac": 5,
+        "triple sec": 2,
+        "succo di limone": 2
+    },
+    "Bellini": {
+        "purea di pesca": 5,
+        "prosecco": 10
+    },
+    "Negroni Sbagliato": {
+        "campari": 3,
+        "vermouth rosso": 3,
+        "spumante": 3
+    },
+    "Screwdriver": {
+        "vodka": 5,
+        "succo d'arancia": 10
+    },
+    "Rusty Nail": {
+        "scotch": 4.5,
+        "drambuie": 2.5
+    },
+    "Godfather": {
+        "scotch": 3.5,
+        "amaretto": 3.5
+    },
+    "Grasshopper": {
+        "crema di menta": 3,
+        "crema di cacao bianca": 3,
+        "panna": 3
+    },
+    "Alexander": {
+        "cognac": 3,
+        "crema di cacao scura": 3,
+        "panna": 3
+    }
+}
