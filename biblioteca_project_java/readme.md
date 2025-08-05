@@ -1,8 +1,6 @@
 ````markdown
 # 📚 Progetto Java – Gestione Biblioteca
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
 Questo è un progetto Java orientato agli oggetti che simula il funzionamento di una piccola biblioteca. È stato realizzato come esercizio personale per consolidare l’uso delle classi, dei metodi e delle strutture dati come `ArrayList`.
 
 > 🎯 Questo progetto fa parte del mio percorso di crescita come programmatore: creo progetti con difficoltà crescente per migliorare passo dopo passo.
