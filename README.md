@@ -22,10 +22,13 @@ Ogni cartella contiene un progetto completo e ben documentato, che può essere e
 - 🍸 **Simulatore bar di cocktail**  #Python
   Un gestionale per baristi, con ordini, magazzino e scorte calcolate in modo realistico.
 
+- 📚 Gestione Biblioteca  #Java
+Un’applicazione da terminale per la gestione base dei libri di una biblioteca.
+
 ...e altri in arrivo!
 
 ---
 
 **Lingua**: 🇮🇹 Italiano  
-**Tecnologie usate**: Python 3, strutture dati, programmazione a oggetti
+**Tecnologie usate**: Python, Java, strutture dati, programmazione a oggetti
 
