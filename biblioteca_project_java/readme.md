@@ -53,6 +53,7 @@ Autore: Jojo Moyes
 Numero copie disponibili: 10
 -------------------------
 Io prima di te di Jojo Moyes è presente in biblioteca!
+```
 ````
 
 ---
