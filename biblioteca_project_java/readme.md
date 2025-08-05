@@ -1,4 +1,3 @@
-````markdown
 # 📚 Progetto Java – Gestione Biblioteca
 
 Questo è un progetto Java orientato agli oggetti che simula il funzionamento di una piccola biblioteca. È stato realizzato come esercizio personale per consolidare l’uso delle classi, dei metodi e delle strutture dati come `ArrayList`.
@@ -54,7 +53,6 @@ Numero copie disponibili: 10
 -------------------------
 Io prima di te di Jojo Moyes è presente in biblioteca!
 ```
-````
 
 ---
 
